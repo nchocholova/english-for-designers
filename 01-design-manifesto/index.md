@@ -1,5 +1,7 @@
 # Design Manifesto
 
+![Alt text](IMG_3476.png)
+
 - **Say NO to Half-Baked Ideas:**
 Our clients invest more than just time—they trust us with their future success. In return, any concept we present must be thought-out and backed by rationale. Half-baked ideas are reserved for internal brainstorming only. Gut feelings are not enough; every decision needs to be supported by evidence and strategy.
 
