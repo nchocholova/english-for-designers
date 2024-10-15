@@ -10,4 +10,4 @@
 
 - **Who’s the Designer in This Relationship?:** We’re here to bring your vision to life, and that means revisions, feedback, and transparency are part of the process. But we’re not here to be micromanaged or second-guessed at every turn. Mutual respect and trust in our expertise are essential. If you feel someone else can do it better, we’ll happily step aside and let you take the reins.
 
-<img src="/IMG_3476.png" alt="Physical Form of Manifesto" width="400"/>
+<img src="../IMG_3476.png" alt="Physical Form of Manifesto" width="400"/>
