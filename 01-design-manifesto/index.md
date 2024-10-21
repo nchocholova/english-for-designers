@@ -12,4 +12,4 @@
 
 <img src="../IMG_3476.png" alt="Physical Form of Manifesto" width="400"/>
 
-![View the PDF](english-for-designers/01-design-manifesto/english-presentation.pdf)
+![View the PDF](english-presentation.pdf)
