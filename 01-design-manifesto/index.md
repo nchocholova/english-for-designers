@@ -1,8 +1,9 @@
-# Design Manifesto
+## Design Manifesto
+![View Manifesto in the Presentation Format]([**english-presentation.pdf**](https://github.com/nchocholova/english-for-designers/blob/main/01-design-manifesto/english-presentation.pdf))
 
 - **Say NO to Half-Baked Ideas:** Our clients invest more than just time—they trust us with their future success. In return, any concept we present must be thought-out and backed by rationale. Half-baked ideas are reserved for internal brainstorming only. Gut feelings are not enough; every decision needs to be supported by evidence and strategy.
 
-- **Say It Like It Is:** Our goal is to get you from point A to B in the most effective manner. If we seem a little direct, it’s because we prioritise results over pleasantries. We're here to find the perfect solution using the most efficient route—not to make unnecessary detours just to ‘milk’ the hourly rate.
+- **Say It Like It Is:** Our goal is to get you from point A to B in the most effective manner. If we seem a little direct, it’s because we prioritise results over pleasantries. We're here to find the perfect solution using the most efficient route – not to make unnecessary detours just to ‘milk’ the hourly rate.
 
 - **B2You:** Business jargon is filled with abbreviations (B2B, B2C, C2B…). But for us, it all comes down to one thing: _you_. Regardless of your business model, we’ll work to find a solution that fits.
 
@@ -12,4 +13,3 @@
 
 <img src="../IMG_3476.png" alt="Physical Form of Manifesto" width="400"/>
 
-![View the PDF](**english-presentation.pdf**)
