@@ -1,5 +1,5 @@
 ## Natalie's Design Principles
-> *11.10.2024*
+*11.10.2024*
 - **Say NO to Half-Baked Ideas:** Our clients invest more than just time—they trust us with their future success. In return, any concept we present must be thought-out and backed by rationale. Half-baked ideas are reserved for internal brainstorming only. Gut feelings are not enough; every decision needs to be supported by evidence and strategy.
 
 - **Say It Like It Is:** Our goal is to get you from point A to B in the most effective manner. If we seem a little direct, it’s because we prioritise results over pleasantries. We're here to find the perfect solution using the most efficient route – not to make unnecessary detours just to ‘milk’ the hourly rate.
