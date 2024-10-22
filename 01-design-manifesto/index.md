@@ -1,5 +1,5 @@
 ## Design Manifesto
-![View Manifesto in the Presentation Format]([**english-presentation.pdf**](https://github.com/nchocholova/english-for-designers/blob/main/01-design-manifesto/english-presentation.pdf))
+[View Manifesto in the Presentation Format](https://github.com/nchocholova/english-for-designers/blob/main/01-design-manifesto/english-presentation.pdf)
 
 - **Say NO to Half-Baked Ideas:** Our clients invest more than just time—they trust us with their future success. In return, any concept we present must be thought-out and backed by rationale. Half-baked ideas are reserved for internal brainstorming only. Gut feelings are not enough; every decision needs to be supported by evidence and strategy.
 
