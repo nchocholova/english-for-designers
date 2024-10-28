@@ -1,2 +1,2 @@
 ## Crafting a Bio
-#### [Bio Research](02-the-bio/research.md)
+#### [Bio Research](english-for-designers/02-the-bio/research.md)
