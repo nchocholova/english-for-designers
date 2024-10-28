@@ -20,5 +20,5 @@
 
 <span>&#8722;</span> *(SS)* Quite long, however, the structure helps balance it out.
 
-<span>&#8722;</span> *(AT)* Consider restructuring / rephrasing each block, so that the differentiation factor is mentioned first, and only then elaborated on.
+<span>&#8722;</span> *(AT)* Consider restructuring / rephrasing each block, so that the differentiating element is mentioned first and only then elaborated on.
 
