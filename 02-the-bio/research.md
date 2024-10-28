@@ -1,10 +1,24 @@
 ## Bio Research
-i. **Studio Bio's:**
+### **Studio Bio's:**
 
-[& Walsh,](https://andwalsh.com) 
+[& Walsh](https://andwalsh.com) & [Wolff Olins](https://www.wolffolins.com/about)
 
-<span>&#43;</span> the structure, the succint presentation of corporate values & conveying and appropriatelly subcategorising the fields t
+<span>&#43;</span> *(&W)* the structure & the succint presentation of corporate values.
 
-[Wolff Olins](https://www.wolffolins.com/about)
+<span>&#43;</span> *(WO)* highlighting the full scope of services and effectively subcategorising them to illustrate what each discipline encompasses.
 
-<span>&#43;</span> highlighting the full scope of services and effectively subcategorising them to illustrate, what certain disciplines encompass. 
+
+### **Individual Bio's**
+
+[Stefan Sagmeister,](https://sagmeister.com/answers/) [Alex Trochut](https://alextrochut.com/about/) & [Mike Mills](https://mikemillsmikemills.com)
+
+<span>&#43;</span> *(SS)* Presented in the form of a Q&A which enables him to effectively highlight his approach without seeming self-centered or overly enthusiastic.
+
+<span>&#43;</span> *(AT)* Markets himself based on his principles and has divided these nicely into 4 blocks 
+
+<span>&#43;</span> *(MM)* Extremely simple, no text, just a gallery (however is likely only effective / appropriate due to the amount and scope of work presented.
+
+<span>&#8722;</span> *(SS)* Quite long, however, the structure helps balance it out.
+
+<span>&#8722;</span> *(AT)* Consider restructuring / rephrasing each block, so that the differentiation factor is mentioned first, and only then elaborated on.
+
