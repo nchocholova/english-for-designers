@@ -1,4 +1,5 @@
 ## Bio Research
+*28.10.2024*
 ### **Studio Bio's:**
 
 [& Walsh](https://andwalsh.com) & [Wolff Olins](https://www.wolffolins.com/about)
