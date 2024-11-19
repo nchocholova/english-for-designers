@@ -1,2 +1,3 @@
 ## Crafting a Bio
-#### [Bio Research](research.md)
+#### [1. Bio Research](research.md)
+#### [2. First Drafts](draft.md) 
