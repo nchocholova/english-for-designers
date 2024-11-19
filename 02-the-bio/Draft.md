@@ -18,4 +18,5 @@ That’s why I’m currently in the final year of my bachelor’s program at PSC
 
 
 
-### Profesional 
+### Professional 
+<img src="ba-brand-essence.png" alt="Alt Text" width="600" />
