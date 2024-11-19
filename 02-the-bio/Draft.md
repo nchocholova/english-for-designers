@@ -7,7 +7,7 @@ Hi, I’m Natalie! ~~With a background in international business, I transitioned
 
 **Handshake 1, (edited):** 
 
-Hi, I’m Natalie! As your strategic partner, I seamlessly combine consulting and design to deliver personalized, high-quality solutions that drive success and enhance **your** brand identity. Continuously learning and evolving, I’m dedicated to providing innovative and impactful outcomes.
+Hi, I’m Natalie! As your strategic partner, I seamlessly combine consulting and design to deliver personalized, high-quality solutions that drive success and enhance your brand identity. Continuously learning and evolving, I’m dedicated to providing innovative and impactful outcomes.
 
 
 **About Me (tailored to an academic setting):**
