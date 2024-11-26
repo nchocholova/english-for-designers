@@ -17,8 +17,12 @@ Hi, I’m Natalie ~~Chocholova~~ — a consultant-designer hybrid with internati
 #### Handshake 2 (edited 26.11 / 10.00):
 Hi, I'm Natalie – a consultant designer hybrid with international business know-how. I transform brands into their best versions. Curious? *Then let's get started!*
 
+*Button 1 – Call Me | Button 2 – Email Me | Button 3 – Find me on LinkedIn*
+
 #### Handshake 2 (edited 26.11 / 14.00):
 Hi, I'm Natalie – a consultant designer hybrid with international business know-how. I transform brands into their best versions. Curious? *Shoot me a message!*
+
+*Button 1 – Call Me | Button 2 – Email Me | Button 3 – Find me on LinkedIn*
 
 
 ### About Me
