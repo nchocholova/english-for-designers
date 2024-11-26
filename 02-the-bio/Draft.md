@@ -34,5 +34,14 @@ That’s when I pivoted. Merging my business know-how with a passion for design,
 
 Curious? Let’s create something extraordinary together!
 
+**Selected Works**
+
+[Mobile App – Nap Mapper](https://nchocholova.com/2024/10/20/klauzury-vskk-2024-2/)
+
+[Café Letka Visual Identity](https://nchocholova.com/2024/10/17/cafe-letka/)
+
+[Think For Yourself Poster](https://nchocholova.com/2024/10/17/think-for-yourself/)
+
+
 
 
