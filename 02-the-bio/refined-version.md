@@ -40,7 +40,6 @@ Curious? Then let's create something extraordinary together!
 
 *Headshot.png*
 
-##
 
 #### Experience
 - **2024 – present: Bolde Advisory, Founder & CEO:** In 2024, driven by my entrepreneurial spirit, I launched Bolde Advisory – a consultancy agency where business strategy meets creative design. Here, we help brands discover their unique voice, optimise their growth, and build purposeful visual identities.
@@ -75,28 +74,30 @@ Ready to see how typography can take ~~flight?~~ Discover my take on Café Letka
 Can AI enhance our future, or will it dim our ability to think for ourselves? Dive into my thought-provoking poster design that challenges our growing dependence on artificial intelligence. A visual wake-up call that proves design can spark important conversations! ~~(After Effects, Photoshop)~~
 - ~~See more~~
 
-```diff -
-JG Feedback 6.12.2024
-- No headings
-- What problem does the product solve?
-- Highlight capabilities, not tools
-- Personalise buttons, don't be generic and repetitive
-- Be direct and to the point
-- Limit exclamation points, a well-written text can be effective without them
-```
+---
+
+***JG Feedback 6.12.2024***
+- *No headings*
+- *What problem does the product solve?*
+- *Highlight capabilities, not tools*
+- *Personalise buttons, don't be generic and repetitive*
+- *Be direct and to the point*
+- *Limit exclamation points, a well-written text can be effective without them*
+
+---
 
 ### 7.12.2024 
 #### Nap Mapper
 Ever wondered where to catch the perfect power nap in Prague? Meet Nap Mapper – a quirky app for urban nappers. Taking a fresh spin on city living, it guides tired souls to hidden corners of Prague that are perfect for a peaceful recharge. (2024, Product Design, Motion)
 - Ready to test the prototype?
 
-##
+
 
 #### Café Letka
 Curious to see how typography can bring a brand story to life? For Café Letka, I merged aviation heritage with modern design, creating a distinct visual language that helps the café soar above Prague’s competitive café scene. (2024, Visual Identity, Typography)
 - Explore the new look.
 
-##
+
 
 #### Pitfall of AI
 With 86% of students now using AI for academic work, a crucial question emerges: Are we enhancing our learning or losing our ability to think critically? Where do we draw the line? Can we find a balance in this AI-driven era? (2024, Social Impact, Digital Design)
@@ -116,7 +117,7 @@ Below is a preview of the project. The Figma prototype is then available [HERE](
 
 While this started as a team project with Eliška Fantová, Valerie Virtová, and Alicie Weinfurtová, we each ended up crafting our own unique app (because why stop at one when you can have four?).
 
-##
+
 
 #### Café Letka
 *2024, Visual Identity, Typography*
@@ -127,7 +128,7 @@ Working with contrails as inspiration, we stripped away the literal airplane ref
 
 I collaborated on this project with Natálie Ďurinská, Eliška Fantová, Valerie Virtová, and Alicie Weinfurtová. All visualisations, including the logo, are my personal contributions to the project.
 
-##
+
 
 #### Pitfall of AI?
 *2024, Social Impact, Digital Design*
