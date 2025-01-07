@@ -35,7 +35,7 @@ What started as a corporate business journey evolved into something more excitin
 
 Curious? Then let’s create something extraordinary together!
 
-Email me | My experience and Education
+Email me | My experience and education
 
 #### Experience
 *2024 – present: Bolde Advisory, Founder & CEO*
