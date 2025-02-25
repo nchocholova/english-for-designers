@@ -26,7 +26,8 @@ Sitting at the airport, heading to London for a six-month stint to gain addition
 the essence of aviation didn't have to be anchored in the aeroplanes themselves, but in the dynamic, unexpected paths 
 they carved through the sky – regardless of make, shape, or size.
 
-I proposed to my team: "What if the letters themselves followed these flight paths?"
+I proposed to my team: 
+> "What if the letters themselves followed these flight paths?"
 
 ---
 
