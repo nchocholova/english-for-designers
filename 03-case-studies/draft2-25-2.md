@@ -30,7 +30,8 @@ I proposed to my team: "What if the letters themselves followed these flight pat
 
 ---
 
-### Typography That Follows Invisible Flight Paths
+### ~~Typography That Follows Invisible Flight Paths~~
+### Typography as the Hero
 Typography became the core of our concept, and choosing the right typeface was crucial. Everyone on our team searched 
 for something with character but not quirks, distinctive but legible when following invisible flight paths.
 
