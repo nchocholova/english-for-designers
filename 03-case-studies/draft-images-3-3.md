@@ -4,6 +4,12 @@
 
 ---
 
+![Visualisation of the Initial Idea](sketch.png)
+
+##### Tag: Visualisation of the Initial Idea
+
+---
+
 ![Atyp BL Detail](type-detail.png)
 
 ##### Tag: Detail of Chosen Type – Atyp BL.
