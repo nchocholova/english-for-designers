@@ -1,6 +1,6 @@
-![Images to Convey the Letka Atmosphere](Letka-images.png)
+![Images to Convey the Letka Atmosphere](Letka-image.png)
 
-Images to Convey the Letka Atmosphere
+Series of Images that Convey the Café Letka Atmosphere
 
 ![Café Logo Transformation Overview](logo-cafe-static-s.png)
 ![Café Key Assets Overview](logo-cafe-hover-s.png)
