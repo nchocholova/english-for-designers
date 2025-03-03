@@ -64,4 +64,4 @@
 
 ##### Tag: Brand Application on the Exterior Doors – Displays the Combined Logo for the Sister Businesses.
 
-###### *Note: Most likely will be presented as a image slider.*
+###### *Note: Most likely will be presented as an image slider.*
