@@ -6,7 +6,7 @@
 
 ![Visualisation of the Initial Idea](sketch.png)
 
-##### Tag: Visualisation of the Initial Idea
+##### Tag: Visualisation of the Initial Idea.
 
 ---
 
