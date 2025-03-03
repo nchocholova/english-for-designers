@@ -1,1 +1,1 @@
-![Alt text](relative/path/to/image.png)
+![Alt text](03-case-studies/logo-cafe-static-s.png)
