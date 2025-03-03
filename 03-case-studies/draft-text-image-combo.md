@@ -69,13 +69,6 @@ The contrails carried straightforward and easily digestible messages, mostly rei
 "menu - menu - menu") or short slogans like "Už letím do Letky," which translates to "I'm flying to Letka"—a phrase 
 that sounds far more organic in Czech. We kept these messages short to ensure legibility and accessibility.
 
----
-
-### The Unexpected Landing
-The presentation to the client was met with initial enthusiasm. "It's very well thought out," the owner acknowledged, 
-"but perhaps we're looking for our identity to include more organic and free-hand, less structured elements." Despite 
-our conversations about how this system would effectively differentiate them from competitors, the client ultimately 
-chose a simpler, more logo-centric approach.
 
 ![Application on Interior Door & Aprons](interior.png)
 
@@ -105,6 +98,13 @@ chose a simpler, more logo-centric approach.
 
 ###### Brand Application on the Exterior Doors – Displays the Combined Logo for the Sister Businesses.
 
+---
+
+### The Unexpected Landing
+The presentation to the client was met with initial enthusiasm. "It's very well thought out," the owner acknowledged, 
+"but perhaps we're looking for our identity to include more organic and free-hand, less structured elements." Despite 
+our conversations about how this system would effectively differentiate them from competitors, the client ultimately 
+chose a simpler, more logo-centric approach.
 
 ---
 
