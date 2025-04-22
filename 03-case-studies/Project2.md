@@ -57,15 +57,7 @@ Because history deserves more than just bullet points.
 
 Designing for 9–12-year-olds meant rethinking every tap. Every layout. Every tone of voice.
 
-- **Typography**: Rounded Nunito for warmth, clear sans-serif for readability.
-- **Color palette**: Soft teals, warm yellows, and confident pinks – chosen to boost focus and evoke a sense of maturity kids actually respond to.
-- **Components**: Modular UI elements referencing atomic design, tested for screen-size stress.  
-- **Microcopy**: Encouraging, short, and never condescending.
-
-
-
-But we didn’t stop at kids. Parents and teachers got a **supportive web dashboard**, built to track progress, unlock extras, and bridge the home–school gap.
-
+This resulted in a friendly yet functional visual system – clear typography paired with a warm, focused color palette, modular components built on atomic principles, and microcopy that speaks with encouragement, not instruction.
 
 
 ### From Flight Path to Field Trip – Inside the Historio Design System
@@ -74,7 +66,10 @@ But we didn’t stop at kids. Parents and teachers got a **supportive web dashbo
 - Game-inspired learning journeys  
 - Tap feedback animations, reward mechanics  
 - Dashboard for grown-ups (with just enough charts)  
-- Voice and tone guide that speaks kid but earns adult trust  
+- Voice and tone guide that speaks kid but earns adult trust
+
+But we didn’t stop at kids. Parents and teachers got a supportive web dashboard, built to track progress, unlock extras, and bridge the home–school gap.
+
 
 
 
