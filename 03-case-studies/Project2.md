@@ -16,12 +16,11 @@
 Generation Alpha doesn't wait. They skip intros, tap twice, and expect results fast. When the classroom went remote, they didn’t panic—they adapted. But while their digital instincts thrived, traditional subjects like history started to fade into the background.
 
 So I asked: 
->_What would history look like if it moved at their pace?
+> What would history look like if it moved at their pace?
 
 Enter *Historio* – a mobile app that transforms history into something swipeable, story-driven, and just a _little_ addictive.
 
-_Image 1 – Product Promo Banner._
-
+![Banner](historio-banner-medium.png)
 
 ## The Work Before the Work
 
