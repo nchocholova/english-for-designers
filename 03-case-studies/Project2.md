@@ -38,11 +38,11 @@ Then came the structure:
 - **Paper sketches, wireframes, and lo-fi prototypes** tested with real feedback
 
 ![Screenshot](screenshot2.png)
+![Wireframe](wireframe.png)
 
-Into the details? Personas, empathy maps, value proposition canvases, user flows – it’s all [here](https://www.figma.com/board/4QUDF1ybLNwOG5XTkKMRLu/Kapitola-5-%E2%80%93-Vizualizace-vzorc%C5%AF?node-id=0-1&t=pedUMNo73xvXrJH6-1), ready to be explored.
+Into the details? Personas, empathy maps, value proposition canvases, user flows and more – it’s all [here](https://www.figma.com/board/4QUDF1ybLNwOG5XTkKMRLu/Kapitola-5-%E2%80%93-Vizualizace-vzorc%C5%AF?node-id=0-1&t=pedUMNo73xvXrJH6-1), ready to be explored.
 
-I wasn’t just designing for users – I was designing **with** them.  
-And that made all the difference.
+The real value of the process? It turned assumptions into insights—and made sure design decisions weren’t just smart, but human.
 
 
 ## What If Learning Felt Like Playing?
@@ -61,6 +61,8 @@ Designing for 9–12-year-olds meant rethinking every tap. Every layout. Every t
 - **Color palette**: Soft teals, warm yellows, and confident pinks – chosen to boost focus and evoke a sense of maturity kids actually respond to.
 - **Components**: Modular UI elements referencing atomic design, tested for screen-size stress.  
 - **Microcopy**: Encouraging, short, and never condescending.
+
+
 
 But we didn’t stop at kids. Parents and teachers got a **supportive web dashboard**, built to track progress, unlock extras, and bridge the home–school gap.
 
