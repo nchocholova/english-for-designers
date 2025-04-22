@@ -1,13 +1,12 @@
-# Café Letka: When Typography Takes Flight  
-
-Ever wondered what happens when aviation meets typography? For Café Letka, we turned airplane trails into letterforms, crafting a visual identity that’s as bold as it is meaningful.
-
 | Client         | Café Letka / Club Letka                     |
 |----------------|---------------------------------------------|
 | Year           | 2024                                        |
 | My Role        | Art Direction, Concept & Typography         |
 | Deliverables   | Visual identity system, packaging, signage, merchandise, social media |
 
+# Café Letka: When Typography Takes Flight  
+
+Ever wondered what happens when aviation meets typography? For Café Letka, we turned airplane trails into letterforms, crafting a visual identity that’s as bold as it is meaningful.
 
 
 ## A Hand-Drawn Plane That Couldn't Fly Forever
