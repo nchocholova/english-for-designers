@@ -22,7 +22,7 @@ But this sentimental sketch wasn’t built to keep up with a growing brand. As L
 
 The design brief grew more complex on-site. Club Letka, a sister theatre venue under the same roof, had no visual connection to the café – despite shared ownership and clientele. The identities felt disconnected. We needed to unify them without losing their individual character.
 
-So I sat back, sketchbook in hand. One espresso turned into two. Morning hush gave way to evening buzz, and Letka revealed its rhythm.
+So I observed. I sketched. I sipped (a lot). And I watched Letka shift – from slow, sleepy mornings to lively, laughter-filled nights.
 
 The breakthrough came not in the café, but at the airport – heading to London for a six-month study stint. Aviation, I realized, doesn’t just live in machines. It lives in motion. In the sky’s invisible patterns. And that’s when I pitched it:
 
