@@ -37,7 +37,7 @@ Then came the structure:
 - **User journey flows** that charted every click from launch to “lesson complete”  
 - **Paper sketches, wireframes, and lo-fi prototypes** tested with real feedback
 
-
+![Screenshot1](screenshot.png)
 
 Into the details? Personas, empathy maps, value proposition canvases, user flows – it’s all [here](https://www.figma.com/board/4QUDF1ybLNwOG5XTkKMRLu/Kapitola-5-%E2%80%93-Vizualizace-vzorc%C5%AF?node-id=0-1&t=pedUMNo73xvXrJH6-1), ready to be explored.
 
