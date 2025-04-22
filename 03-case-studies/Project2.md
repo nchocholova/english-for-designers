@@ -89,7 +89,7 @@ To support *Historio*’s potential rollout, I developed a strategic promotional
 
 The approach combined digital reach with real-world visibility:
 
-![Image1](image1.png)
+
 
 ![Image2](image2.png)
 
