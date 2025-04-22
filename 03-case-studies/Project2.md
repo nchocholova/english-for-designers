@@ -89,6 +89,17 @@ To support *Historio*’s potential rollout, I developed a strategic promotional
 
 The approach combined digital reach with real-world visibility:
 
+![Image1](image1.png)
+
+![Image2](image2.png)
+
+![Image3](image3.png)
+
+![Image4](image4.png)
+
+![Image5](image5.png)
+
+![Image6](image6.png)
 
 
 The brand’s voice remained consistent: approachable, clever, and always student-first.
