@@ -36,7 +36,7 @@ The breakthrough came not in the café, but at the airport – heading to London
 
 The team and I agreed: this concept had wings. The challenge? Finding a typeface that could hold its own mid-flight – something with enough presence to feel dynamic, but refined enough to remain legible.
 
-After rounds of testing, we landed on **Atyp BL** in bold uppercase. It moved, curved, and floated—always clear, never chaotic.
+After rounds of testing, we landed on **Atyp BL** in bold uppercase. It moved, curved, and floated – always clear, never chaotic.
 
 ![_Visual detail of Atyp BL in use with flight-path animations._](type-detail.png)
 ##### Visual detail of Atyp BL in use with flight-path animations
