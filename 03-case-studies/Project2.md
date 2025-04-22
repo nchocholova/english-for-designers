@@ -32,11 +32,14 @@ To get it right, I started with qualitative research:
 - **Empathy maps** for three key players: the child, the parent, and the teacher  
 
 Then came the structure:  
-- **Value proposition mapping** to define what *Historio* actually solves  
+- **Value proposition mapping** to define what *Historio* actually solves
+- **Object/operation analysis** to map out how the app actually delivers on its promises
 - **User journey flows** that charted every click from launch to “lesson complete”  
-- **Paper sketches, wireframes, and lo-fi prototypes** tested with real feedback  
+- **Paper sketches, wireframes, and lo-fi prototypes** tested with real feedback
 
-_Image 2 – Figjam – Sketches of empathy maps, value canvases, and user journey maps._
+
+
+Into the details? Personas, empathy maps, value proposition canvases, user flows – it’s all [here](https://www.figma.com/board/4QUDF1ybLNwOG5XTkKMRLu/Kapitola-5-%E2%80%93-Vizualizace-vzorc%C5%AF?node-id=0-1&t=pedUMNo73xvXrJH6-1), ready to be explored.
 
 I wasn’t just designing for users – I was designing **with** them.  
 And that made all the difference.
