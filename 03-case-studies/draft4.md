@@ -25,7 +25,7 @@ The design brief grew more complex on-site. Club Letka, a sister theatre venue u
 
 So I observed. I sketched. I sipped (a lot). And I watched Letka shift – from slow, sleepy mornings to lively, laughter-filled nights.
 
-The breakthrough came not in the café, but at the airport – heading to London for a six-month study stint. Aviation, I realized, doesn’t just live in machines. It lives in motion. In the sky’s invisible patterns. And that’s when I pitched it:
+The breakthrough came not in the café, but at the airport – heading to London for a six-month study stint. Aviation, I realised, doesn’t just live in machines. It lives in motion. In the sky’s invisible patterns. And that’s when I pitched it:
 
 > _“What if the letters could actually move – like tiny planes tracing paths through the sky?”_
 
@@ -88,7 +88,7 @@ Short slogans like _“Už letím do Letky”_ (“I’m flying to Letka”) cre
 
 ## The Client Pivot: A Softer Landing
 
-The final presentation was met with warm praise – _“It’s very well thought out,”_ the owner said – but also a pause.  
+The final presentation was met with warm praise – _“It’s very well thought out,”_ the owner said – but there was also a pause.  
 In the end, they chose a **simpler, more logo-focused route**. Not quite the landing we envisioned, but one that taught us plenty about letting go.
 
 
