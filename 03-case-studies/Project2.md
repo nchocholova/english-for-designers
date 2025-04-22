@@ -59,6 +59,7 @@ Designing for 9–12-year-olds meant rethinking every tap. Every layout. Every t
 
 This resulted in a friendly yet functional visual system – clear typography paired with a warm, focused color palette, modular components built on atomic principles, and microcopy that speaks with encouragement, not instruction.
 
+_Image: Component Library?_ 
 
 ### From Flight Path to Field Trip – Inside the Historio Design System
 
@@ -68,17 +69,18 @@ This resulted in a friendly yet functional visual system – clear typography pa
 - Dashboard for grown-ups (with just enough charts)  
 - Voice and tone guide that speaks kid but earns adult trust
 
+_Image: App Preview (video promo / walkthrough)_ 
+
 But we didn’t stop at kids. Parents and teachers got a supportive web dashboard, built to track progress, unlock extras, and bridge the home–school gap.
 
+_Image: Webiste & Dashboard Preview_ 
 
 
 
 ## Clap, Wink, Cheer: Testing With Real Kids
-
 Our prototype hit the playground—with real users, real feedback, and real claps (from the app and the kids).
 
 Children loved customizing avatars, unlocking badges, and seeing reactions like character applause or goofy winks after tasks. Parents appreciated the short modules and offline capabilities. Their insights shaped final tweaks—from softer difficulty curves to clearer privacy settings.
-
 
 
 ## Launching with a Purpose
@@ -89,7 +91,7 @@ To support *Historio*’s potential rollout, I developed a strategic promotional
 
 The approach combined digital reach with real-world visibility:
 
-TBD
+TBD _Images of OOH, merchandise, geolocation activities and experiential marketing_
 
 The brand’s voice remained consistent: approachable, clever, and always student-first.
 
