@@ -4,6 +4,7 @@
 **Hi, I’m Natalie.**  
 
 The end. Right? That’s it. Short. Snappy. Iconic. Just like me.
+
 ...But okay, I’ll elaborate – just for you.
 
 ---
@@ -27,7 +28,7 @@ But depending on the time of day and who I’m talking to, I shapeshift. The per
 ---
 
 ### [Slide 4]  
-Here’s a rough list, just to get us started: I’m a student. A CEO. A graphic designer. A business developer. A strategist. A dog parent. A digital nomad. A pro-level online shopper. A semi-retired golfer. A book collector. A Netflix critic. A part-time seamstress. A gym regular. A Cancer sun and a Dragon by lunar reckoning – and according to my horoscope, I’m bringing wealth this year. Just saying.
+Here’s a rough list, just to get us started:  I’m a student. A CEO. A graphic designer. A business developer. A strategist.  A dog parent. A digital nomad. A pro-level online shopper. A semi-retired golfer.  A book collector. A Netflix critic. A part-time seamstress. A gym regular. A Cancer sun and a Dragon by lunar reckoning – and according to my horoscope, I’m bringing wealth this year. Just saying.
 
 Also? I know how to change a tire. Because… life.
 
@@ -64,14 +65,14 @@ So how do I get past that?
 Sometimes I just ask myself: “If someone else had my exact CV, would I think they’re qualified?” Usually, the answer is yes. So… why not me?
 
 Either way, I shoot my shot. Because really—what’s the worst that could happen? A polite “no”?
- Been there. Survived it. Sometimes had a mild breakdown. But I bounced back – and kept moving.
+ Been there. Survived it. Sometimes had a mild breakdown.  But I bounced back – and kept moving.
 
 ---
 
 ### [Slide 8]  
-Three years ago, I decided I wanted to start my own creative agency. Great vision—except I had the business mindset, but zero design experience.
+Three years ago, I decided I wanted to start my own creative agency. Great vision – except I had the business mindset, but zero design experience.
 
-So... I came here. I studied. I learned. I received praise and recognition for my work. But to be honest? I wasn’t entirely sold on the quality of education.
+So... I came here. I studied. I learned. I received praise and recognition for my work.  But to be honest? I wasn’t entirely sold on the quality of education.
 So I went out and got extra qualifications from UAL in London.
 
 Not because I had to – but because I thrive on pressure and structure. Academia keeps me accountable. It doesn’t wait for motivation – it runs on momentum. And if you stop showing up, it doesn’t slow down for you.
@@ -79,7 +80,7 @@ Not because I had to – but because I thrive on pressure and structure. Acade
 ---
 
 ### [Slide 9]  
-Fast forward to now: I run a start-up that’s doing well (fingers crossed, touch wood, burn some sage—whatever works.) I’m currently in the process of hiring full-time employees – which is a whole saga of its own. 
+Fast forward to now: I run a start-up that’s doing well (fingers crossed, touch wood, burn some sage – whatever works.) I’m currently in the process of hiring full-time employees – which is a whole saga of its own. 
 I’ve worked across design, business development and marketing. I’ve built brands and I’ve built systems. Even organised events. 
 
 But here’s the thing: I don’t get comfortable. Because the moment you do, the market moves on – without you.
@@ -108,8 +109,8 @@ But none of that means I stop saying yes to growth. The title doesn’t matter
 ---
 
 ### [Slide 12]  
-I believe in **stacking experiences.** Big or small. Paid or unpaid. Every step builds something. And that something makes you better. It makes you an asset.
-But I also believe in protecting your energy. Not every client is the right client. Not every “opportunity” deserves a yes. And some projects? If they’re draining your will to live – be sure to charge hourly.
+I believe in **stacking experiences.**  Big or small. Paid or unpaid. Every step builds something. And that something makes you better. It makes you an asset.
+But I also believe in protecting your energy. Not every client is the right client.  Not every “opportunity” deserves a yes. And some projects? If they’re draining your will to live – be sure to charge hourly.
 
 ---
 
@@ -128,7 +129,7 @@ So here’s what you get with me:
 
 Someone ordinary. Because who does **extraordinary things on Tuesday afternoons?**. 
 
-Someone who’s always learning – even when it means starting at the bottom again.   Someone who thinks creatively, acts strategically, and genuinely *cares* about the work.
+Someone who’s always learning – even when it means starting at the bottom again. Someone who thinks creatively, acts strategically, and genuinely *cares* about the work.
 
 ---
 
