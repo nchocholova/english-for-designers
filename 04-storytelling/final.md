@@ -1,6 +1,6 @@
 # Final – 29.4.2025
 
-[View my supporting presentation](me-myself-and-i.pdf)
+[View my supporting slide deck](me-myself-and-i.pdf)
 
 ### Hi, I’m Natalie
  
