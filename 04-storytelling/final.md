@@ -1,5 +1,7 @@
 # Final – 29.4.2025
 
+[View my supporting presentation](me-myself-and-i.pdf)
+
 ### Hi, I’m Natalie
  
 The end. Right? That’s it. Short. Snappy. Iconic. Just like me.
